@@ -1,0 +1,170 @@
+[
+  {
+    "id": 0,
+    "title": "유로폼",
+    "title_en": "euro form",
+    "content": "어떠한 형태의 철근콘크리트 구조물에도 설치, 해체가 용이한 거푸집 시스템"
+    
+  },
+  {
+    "id": 1,
+    "title": "인코너",
+    "title_en": "incorner panel",
+    "content": "어떠한 형태의 철근콘크리트 구조물에도 설치, 해체가 용이한 거푸집 시스템"
+    
+  },
+  {
+    "id": 2,
+    "title": "아웃코너(앵글)",
+    "title_en": "outcorner panel",
+    "content": "어떠한 형태의 철근콘크리트 구조물에도 설치, 해체가 용이한 거푸집 시스템"
+    
+  },
+  {
+    "id": 3,
+    "title": "웨지핀 및 후크",
+    "title_en": "weage pin / hook",
+    "content": "각종 거푸집(유로폼,인코너,아웃코너)을 연결하는 부수재"
+    
+  },
+  {
+    "id": 4,
+    "title": "강관비계",
+    "title_en": "scaffolding pipe",
+    "content": "부속철물(크램프,연결핀)을 이용해 자유로운 폭이나 높이 시공이 가능한 비계 시스템"
+  
+  },
+  {
+    "id": 5,
+    "title": "크램프",
+    "title_en": "cramp",
+    "content": "강관 비계와 비계를 연결하여 비계 시스템을 가능하게 하는 부속철물"
+    
+  },
+  {
+    "id": 6,
+    "title": "연결핀",
+    "title_en": "(join) pin",
+    "content": "강관 비계와 비계를 연결하여 비계 시스템을 가능하게 하는 부속철물"
+    
+  },
+  {
+    "id": 7,
+    "title": "백관써포트",
+    "title_en": "support",
+    "content": "가설재를 설치하고자 하는 높이에 따라 나사 및 핀으로 조정하여 사용하는 고강도 강관 거푸집 동바리용 지주"
+    
+  },
+  {
+    "id": 8,
+    "title": "백관써포트핀",
+    "title_en": "support pin",
+    "content": "거푸집 동바리용 지주로 사용되는 백관써포트의 높이를 조절하는 부속철물"
+    
+  },
+  {
+    "id": 9,
+    "title": "직교크램프",
+    "title_en": "cross cramp",
+    "content": "백관써포트를 보조하여 그 강도를 더욱 견고하게 만들어 주는 보조 가설재"
+    
+  },
+  {
+    "id": 10,
+    "title": "빔크램프",
+    "title_en": "beam cramp",
+    "content": "빔(H형광)과 강관비계를 연결해주시는 특수 용도의 부속철물"
+    
+  },
+  {
+    "id": 11,
+    "title": "조립식비계",
+    "title_en": "B.T",
+    "content": "단일화된 비계 시스템으로 현장에서 손쉽게 조립 및 해체가 간편한 비계시스템"
+    
+  },
+  {
+    "id": 12,
+    "title": "안전발판",
+    "title_en": "steel plank",
+    "content": "강관비계 시스템이나 조립식 비계(B.T)에 연결해 작업공간을 확보하기 위한 발판 보조 가설재 "
+    
+  },
+  {
+    "id": 13,
+    "title": "안전난간대",
+    "title_en": "safe railing",
+    "content": "조립식비계 시스템 최상단에 설치하여 안전성을 높여주는 조립식 비계 전용 보조 가설재"
+    
+  },
+  {
+    "id": 14,
+    "title": "전도방지 지지대",
+    "title_en": "B.T stoper",
+    "content": "조립식비계 시스템 최하단 세트에 조립하여 안전성을 높여주는 조립식 비계 전용 보조 가설재"
+    
+  },
+  {
+    "id": 15,
+    "title": "B.T 바퀴",
+    "title_en": "B.T caster",
+    "content": "조립식비계 시스템 최하단 세트에 조립하여 이동성을 높여주는 조립식 비계 전용 보조 가설재"
+    
+  },
+  {
+    "id": 16,
+    "title": "조립식비계핀",
+    "title_en": "B.T pin",
+    "content": "조립식비계와 비계를 층으로 쌓을 수 있도록 도와주는 조립식 비계 전용 보조 가설재"
+    
+  },
+  {
+    "id": 17,
+    "title": "쟈키베이스",
+    "title_en": "jack base",
+    "content": "조립식비계와 최하단 세트에 조립하여 수평을 맞춰주는 조립식 비계 전용 보조 가설재"
+    
+  },
+  {
+    "id": 18,
+    "title": "각파이프",
+    "title_en": "square pipe",
+    "content": "바닥 공정시 합판 및 백관서포트와 함께 사용하여 바닥 공정을 이루는 가설재"
+    
+  },
+  {
+    "id": 19,
+    "title": "계단발판",
+    "title_en": "staircase plank",
+    "content": "강관 비계와 함께 사용하여 임시 계단을 제작하는 보조 가설재"
+    
+  },
+  {
+    "id": 20,
+    "title": "산승각",
+    "title_en": "lumber",
+    "content": "바닥 공정 시 바닥 지지대의 동바리류(백관써포트)와 바닥을 연결하는 용도로 사용되는 보조 가설재"
+    
+  },
+  {
+    "id": 21,
+    "title": "합판",
+    "title_en": "plywood",
+    "content": "건축물 각 바닥을 받쳐주는 역할을 하며 백관 써포트 및 산승각과 함께 사용되는 가설재"
+    
+  },
+  {
+    "id": 22,
+    "title": "EGI휀스",
+    "title_en": "EGI fence",
+    "content": "설치 및 해체가 쉬워 공사현장의 공간 확보을 안전을 위해 설치되는 임시형 휀스"
+  
+  },
+  {
+    "id": 23,
+    "title": "EGI휀스 핀",
+    "title_en": "EGI fence pin",
+    "content": "EGI휀스와 강관 비계를 연결하는 부속철물"
+    
+  }
+]
